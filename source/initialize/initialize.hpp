@@ -1,0 +1,1 @@
+bool InitializeAll(void);

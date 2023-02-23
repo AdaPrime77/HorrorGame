@@ -1,0 +1,1 @@
+bool InitalizeMap1(int argument[640][480]);

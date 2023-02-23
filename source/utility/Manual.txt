@@ -1,0 +1,6 @@
+Timer関数とResetTimer関数の使い方
+
+Timer関数
+	呼ばれてから引数ミリ秒たつと1を返す
+ResetTimer関数
+	1度Timer関数を呼び, ResetTimer関数を呼ばずにTimer関数を呼んでしまうと前の値が保持されているので引数ミリ秒たたなくても1を返してしまう.
